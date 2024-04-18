@@ -17,11 +17,9 @@ body{
 .outer-wrapper{
     background-color: #363636;
     border-radius: 100px;
-    width: 100%;
-    max-width: 2000px;
+    max-width: 1500px;
     opacity: 70%;
     box-shadow: 5px 5px 20px black;
-    padding: 50px;
 }
 
 .main{
@@ -29,8 +27,8 @@ body{
     padding: 100px;
     justify-content: center;
     color: #EEEEEE;
-    font-size: 7em;
-    gap: 100px;
+    font-size: 2em;
+    gap: 80px;
 }
 
 p{
@@ -39,7 +37,6 @@ p{
 
 .number{
     background-color: rgba(240, 248, 255, 0.247);
-    padding: 50px;
+    padding: 30px;
     border-radius: 20px;
-    font-size: 3;
 }
